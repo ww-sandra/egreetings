@@ -12,6 +12,8 @@ namespace Halloween.Pages
 
         public void OnGet()
         {
+
+
             Message = "Your contact page.";
         }
     }
